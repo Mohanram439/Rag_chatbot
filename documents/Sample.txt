@@ -1,0 +1,4 @@
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn from data without being explicitly programmed.
+Types of ML: Supervised Learning, Unsupervised Learning, Reinforcement Learning.
+Python is the most popular language for ML. Libraries include scikit-learn, TensorFlow, and PyTorch.
